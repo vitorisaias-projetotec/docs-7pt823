@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-te0uy3.date-me.pro/sitemap.xml
